@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "jiashangbuilder",
-  "VITE_ORDERLY_BROKER_NAME": "jiashangbuilder2",
+  "VITE_ORDERLY_BROKER_NAME": "jiashangbb",
   "VITE_BROKER_EOA_ADDRESS": "0x7f4e809d9857014b6419de6ab3b832c85f6475e5",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "jiashangbuilder2",
+  "VITE_APP_NAME": "jiashangbb",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
